@@ -1,0 +1,25 @@
+Forrás:
+https://www.met.hu/eghajlat/magyarorszag_eghajlata/eghajlati_adatsorok/Budapest/adatok/napi_adatok/index.php
+
+Letöltve: 2019.03.28.
+
+Oszlopok:
+d_ta	napi középhőmérséklet [°C]
+d_tx	napi maximumhőmérséklet [°C]
+d_tn	napi minimumhőmérséklet [°C]
+d_rs	napi csapadékösszeg [mm]
+d_rf	napi csapadékösszeg fajtája
+d_ss	napfénytartam napi összege [óra]
+
+
+d_rf értékek
+0	ködszitálás, szitálás
+1	eső
+2	ónos eső, ónos szitálás
+3	záporeső
+4	hó, havaseső
+5	hózápor, darazápor
+6	jégeső, jégdara
+7	zivatar (lehet csapadék nélkül is)
+8	hózivatar
+9	zivatar jégesővel
