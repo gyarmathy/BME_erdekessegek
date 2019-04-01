@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="TF-PN-Venn.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="275"
+     inkscape:cy="897.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="101.65051"
+       height="46.654972"
+       x="14.186649"
+       y="9.242733"
+       style="fill:none;stroke:#000000;stroke-width:0.28967097;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#a50000;stroke:#bc0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.16161616"
+       id="path4520"
+       cx="47.379314"
+       cy="31.530785"
+       rx="28.601345"
+       ry="16.317118" />
+    <ellipse
+       style="fill:#0000c9;stroke:#0000a6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.16666667;fill-rule:nonzero"
+       id="path4520-6"
+       cx="75.595222"
+       cy="31.530785"
+       rx="28.601345"
+       ry="16.317118" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="55.842285"
+       y="33.172619"
+       id="text4554"><tspan
+         sodipodi:role="line"
+         id="tspan4552"
+         x="55.842285"
+         y="33.172619"
+         style="fill:#8b0089;fill-opacity:1;stroke-width:0.26458332">TP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.970238"
+       y="33.172615"
+       id="text4558"><tspan
+         sodipodi:role="line"
+         id="tspan4556"
+         x="27.970238"
+         y="33.172615"
+         style="fill:#860000;fill-opacity:1;stroke-width:0.26458332">FP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.587799"
+       y="33.172615"
+       id="text4562"><tspan
+         sodipodi:role="line"
+         id="tspan4560"
+         x="82.587799"
+         y="33.172615"
+         style="fill:#0000a1;fill-opacity:1;stroke-width:0.26458332">FN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.407738"
+       y="52.260414"
+       id="text4566"><tspan
+         sodipodi:role="line"
+         id="tspan4564"
+         x="99.407738"
+         y="52.260414"
+         style="stroke-width:0.26458332">TN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-3.7346239"
+       y="30.775993"
+       id="text6231"
+       transform="rotate(-38.746134)"><tspan
+         sodipodi:role="line"
+         id="tspan6229"
+         x="-3.7346239"
+         y="30.775993"
+         style="fill:#8f0000;fill-opacity:1;stroke-width:0.26458332;font-weight:normal;font-style:italic">predikció</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.077637"
+       y="-52.885975"
+       id="text6231-7"
+       transform="rotate(42.891087)"><tspan
+         sodipodi:role="line"
+         id="tspan6229-5"
+         x="79.077637"
+         y="-52.885975"
+         style="font-style:italic;font-weight:normal;fill:#00007f;fill-opacity:1;stroke-width:0.26458332">tényleges</tspan></text>
+  </g>
+</svg>

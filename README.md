@@ -4,6 +4,8 @@
 
 A jelen repo az "Érdekességek..." kurzus 2. szekciójának jegyzeteit tartalmazza Jupyter notebook formájában.
 
+(The present repository contains lecture notes in Hungarian in the form of Jupyter notebooks for the following course at the Budapest University of Technology and Economics.)
+
 A kurzus honlapja: <http://math.bme.hu/~mozow/cogscimat2.html>
 
 
